@@ -1,5 +1,5 @@
 -- Based on the work of Josh Basset https://github.com/nullobject/sdram-fpga
--- Modified to increase efficiency and flexibility.
+-- Modified to increase efficiency and flexibility by Tim Schulz
 
 library ieee;
   use ieee.std_logic_1164.all;
